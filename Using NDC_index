@@ -1,4 +1,0 @@
-make;
-num=randperm(size(data,1));
-data=data(num',:)
-[NDC_score,ordered_index,threshold_mic]=NDC_index(data,num_ndc)
