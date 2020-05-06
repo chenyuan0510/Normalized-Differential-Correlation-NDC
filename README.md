@@ -16,7 +16,6 @@ To highlight nonlinear expressed genes efficiently
 4) num_ndc is the threshold of nonlinear relationship, must less than the number of features;
 
 ```
-Wang Q, Zhang H,Liang Y,et al. A novel method to efficiently highlight nonlinearly expressed genes[J]. Frontiers in Genetics, 2019, 10.
-https://www.frontiersin.org/articles/10.3389/fgene.2019.01410/full
+Wang Q, Zhang H,Liang Y,et al. A novel method to efficiently highlight nonlinearly expressed genes[J]. Frontiers in Genetics, 2019, 10.(https://www.frontiersin.org/articles/10.3389/fgene.2019.01410/full)
 chenyuan0510@126.com
 ```
