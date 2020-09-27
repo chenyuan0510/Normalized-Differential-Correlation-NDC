@@ -1,4 +1,4 @@
-# normalized-differential-correlation-NDC-
+# Normalized-differential-correlation-NDC
 To highlight nonlinear expressed genes efficiently
 ## 1） MATLAB is the tool of NDC;
 ## 2) The Chi-MIC should be installed:https://github.com/chenyuan0510/Chi-MIC
