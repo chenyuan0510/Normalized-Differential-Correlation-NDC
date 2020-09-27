@@ -18,5 +18,5 @@ To highlight nonlinear expressed genes efficiently
 
 Source: 
 Qifei Wang , Haojian Zhang, Yuqing Liang, Heling Jiang, Siqiao Tan, Feng Luo, Zheming Yuan, Yuan Chen*. [A novel method to efficiently highlight nonlinearly expressed genes.](https://www.frontiersin.org/articles/10.3389/fgene.2019.01410/full) Frontiers in Genetics, 2019, 10.  
- Contact me: chenyuan0510@126.com
+ ## Contact me: chenyuan0510@126.com
 
